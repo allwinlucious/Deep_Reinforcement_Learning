@@ -8,3 +8,9 @@ https://user-images.githubusercontent.com/15308488/207129933-dd476419-7859-407c-
 
 https://user-images.githubusercontent.com/15308488/207130007-df5cbf1c-73f9-46ab-a9fd-a8990878f78a.mp4
 
+
+## unit3
+Trained a DQN to play Atari Space Invaders using a CNN Network , State space consists of 4 stacked frames. Training algorithm from [RL-Baselines3-Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
+
+https://user-images.githubusercontent.com/15308488/208763506-fe0da43b-aa26-4088-8e9a-f6f6261957b8.mp4
+
